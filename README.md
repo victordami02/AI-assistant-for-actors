@@ -19,4 +19,6 @@ This project represents a groundbreaking fusion of technology and artistry, brid
 
 Let's bring characters to life, one line at a time.
 
+https://ai-assistant-for-actors-lhhu5yyzb9j4vce6elmnbe.streamlit.app/
+
 #AI #Acting #MachineLearning #NLP #ScriptAnalysis
